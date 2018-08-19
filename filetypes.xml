@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="overrides" type="Less" />
+      <mapping ext="variables" type="Less" />
+      <mapping pattern="AmeotokoMailchimpSubscribeFormBundle" type="PHP" />
+      <mapping pattern="Helper\BackendDefaults" type="PHP" />
+      <mapping ext="html5" type="PHP" />
+      <mapping pattern=".web-server-pid" type="PLAIN_TEXT" />
+      <mapping ext="lang" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="XML" />
+      <mapping pattern=".htaccess.default" type="htaccess" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,48 @@
+<application>
+  <component name="libraryTable">
+    <library name="html5shiv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="masonry.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_masonry-layout@4_dist_masonry.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_masonry-layout@4_dist_masonry.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mc-validate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__s3.amazonaws.com_downloads.mailchimp.com_js_mc-validate.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__s3.amazonaws.com_downloads.mailchimp.com_js_mc-validate.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="respond" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

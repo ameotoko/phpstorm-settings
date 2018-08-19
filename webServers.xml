@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a3796ef-07c4-4dc9-a6e2-157c0f0194dd" name="Musikzimmer (1)" url="http://localhost/musikzimmer/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ecea0666-470d-41dc-99ae-563e82a193da" name="Music Island – Contao" url="http://localhost/island">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="234266f0-20ae-4a62-a4c0-e008181d8225" name="localhost" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0ca1ecde-d38b-4309-a30b-47d4fe717e7f" name="shop" url="http://shop.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6f2369c2-d167-4dda-a861-80f18d161050" name="Symfony localhost" url="http://localhost:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
