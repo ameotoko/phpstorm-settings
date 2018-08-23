@@ -16,9 +16,6 @@
       <webServer id="6f2369c2-d167-4dda-a861-80f18d161050" name="Symfony localhost" url="http://localhost:8000">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="77442d88-6d1a-47c0-8b93-31895f0541e0" name="Musikstudent" url="http://musikstudent.test">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
