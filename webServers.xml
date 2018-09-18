@@ -16,6 +16,14 @@
       <webServer id="6f2369c2-d167-4dda-a861-80f18d161050" name="Symfony localhost" url="http://localhost:8000">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="281fb1f6-63d1-472c-aea6-d8722c201be6" name="blackmore-artists.com" url="http://blackmore-artists.com">
+        <fileTransfer host="w00d2a7f.kasserver.com" port="21" rootFolder="/artists">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
