@@ -24,6 +24,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8c91d9d4-00f2-4eb7-958e-168a9d0cd02c" name="Klassik Events" url="http://klassik-events.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
