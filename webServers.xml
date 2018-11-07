@@ -25,7 +25,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="8c91d9d4-00f2-4eb7-958e-168a9d0cd02c" name="Klassik Events" url="http://klassik-events.test/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer host="home240066644.1and1-data.host" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/klassik-events.ch" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
