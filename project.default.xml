@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MarkdownSettingsMigration">
+        <option name="stateVersion" value="1" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ssh.settings" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

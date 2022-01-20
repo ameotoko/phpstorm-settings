@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="w0193421.kasserver.com" id="8829c4c3-a486-4bec-9bd1-c3034b7d00e0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="All Inkl" nameFormat="CUSTOM" username="ssh-w0193421" useOpenSSHConfig="true">
+        <option name="customName" value="All Inkl" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
