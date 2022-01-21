@@ -1,7 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e16a4e36-43cd-4802-876f-e1b3ad055ed8" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e16a4e36-43cd-4802-876f-e1b3ad055ed8" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug">
+        <configuration_options>
+          <configuration_option name="mode" value="debug" />
+          <configuration_option name="idekey" value="PHPSTORM" />
+        </configuration_options>
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
