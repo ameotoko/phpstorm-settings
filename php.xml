@@ -1,10 +1,13 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e16a4e36-43cd-4802-876f-e1b3ad055ed8" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug">
+      <interpreter id="e16a4e36-43cd-4802-876f-e1b3ad055ed8" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/php@7.4/7.4.27/pecl/20190902/xdebug.so">
         <configuration_options>
-          <configuration_option name="mode" value="debug" />
-          <configuration_option name="idekey" value="PHPSTORM" />
+          <configuration_option name="xdebug.mode" value="debug" />
+          <configuration_option name="xdebug.client_host" value="127.0.0.1" />
+          <configuration_option name="xdebug.client_port" value="9003" />
+          <configuration_option name="xdebug.start_with_request" value="yes" />
+          <configuration_option name="xdebug.idekey" value="PHPSTORM" />
         </configuration_options>
       </interpreter>
     </interpreters>
