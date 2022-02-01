@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
