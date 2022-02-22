@@ -1,0 +1,9 @@
+<toolSet name="Remote Tools">
+  <tool name="Clear cache" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="All Inkl">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/php74" />
+      <option name="PARAMETERS" value="vendor/bin/contao-console cache:clear" />
+      <option name="WORKING_DIRECTORY" value="/www/htdocs/w0193421/wvopera" />
+    </exec>
+  </tool>
+</toolSet>
