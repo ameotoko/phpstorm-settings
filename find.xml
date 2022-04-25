@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xlf" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,5 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.xlf</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
