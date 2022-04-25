@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Worldvision bundle" />
-    <option name="defaultScopeName" value="Worldvision bundle" />
-    <option name="SEARCH_SCOPE" value="Worldvision bundle" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,7 +15,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.scss</mask>
-    <mask>*.xlf</mask>
     <mask>*.php</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
