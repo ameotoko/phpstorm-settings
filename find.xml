@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="IsotopeEvents bundle" />
-    <option name="defaultScopeName" value="IsotopeEvents bundle" />
-    <option name="SEARCH_SCOPE" value="IsotopeEvents bundle" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
