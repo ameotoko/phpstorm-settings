@@ -5,7 +5,9 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INTENTION_BULB" value="false" />
   </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bcheck$" />
   </component>
 </application>
