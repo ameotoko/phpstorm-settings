@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="composer" type="PHP" />
       <mapping ext="html5" type="PHP" />
-      <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="pgsql" type="SQL" />
+      <mapping pattern="*.svg.html5" type="SVG" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="conf" type="htaccess" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping pattern="*.svg.html5" approved="true" type="SVG" />
     </extensionMap>
   </component>
 </application>
