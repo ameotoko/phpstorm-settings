@@ -5,7 +5,6 @@
       <mapping ext="html5" type="PHP" />
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="pgsql" type="SQL" />
       <mapping pattern="*.svg.html5" type="SVG" />
       <mapping ext="sss" type="SVG" />
