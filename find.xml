@@ -17,7 +17,7 @@
     <mask>*.css</mask>
     <mask>*.html5</mask>
     <mask>*.xlf</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
   </component>
 </application>

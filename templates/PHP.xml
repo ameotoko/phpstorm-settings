@@ -1,0 +1,31 @@
+<templateSet group="PHP">
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="PHP tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="==" value="&lt;?= $END$ ?&gt;" description="PHP echo tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="this" value="$this-&gt;" description="$this-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="phpif" value="&lt;?php if ($condition$): ?&gt;&#10;  $END$&#10;&lt;?php endif; ?&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
